@@ -341,3 +341,5 @@ healthchecksdb
 
 # Development config file
 appsettings.Development.json
+Keeper.API/.DS_Store
+.DS_Store
